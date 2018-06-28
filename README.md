@@ -1,7 +1,7 @@
 #手写写汉字识别
 
-* [Github](https://github.com/Chinesemodel) 
-* [Github](https://github.com/Chinesemodel/chinese_model/blob/master/任务分配)
+* [Github代码](https://github.com/Chinesemodel) 
+* [Github任务分配](https://github.com/Chinesemodel/chinese_model/blob/master/任务分配)
 
 ### 项目简介
 
