@@ -17,8 +17,8 @@
     * Github : [https://github.com/weiwei10](https://github.com/weiwei10)
 
 ### 运行效果
-<img src="../../image/岛买岛卖/1.png" width=250 height=400 />
-<img src="../../image/岛买岛卖/2.png" width=250 height=400 />
+<img src="image/1.png" width=250 height=400 />
+<img src="image/2.jpg" width=250 height=400 />
 <img src="../../image/岛买岛卖/3.png" width=250 height=400 />
 
 <img src="../../image/岛买岛卖/4.png" width=250 height=400 />
