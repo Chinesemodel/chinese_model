@@ -1,7 +1,7 @@
 #手写写汉字识别
 
 * [Github](https://github.com/Chinesemodel) 
-* [HostedRedmine](https://github.com/Chinesemodel/chinese_model/blob/master/任务分配)
+* [Github](https://github.com/Chinesemodel/chinese_model/blob/master/任务分配)
 
 ### 项目简介
 
@@ -14,7 +14,7 @@
     * Github : [https://github.com/yushuxin1](https://github.com/yushuxin1)
 * 刘林微 (UI设计，客户端代码开发) 
     * Email: <1127644749@qq.com>
-    * Github : [https://github.com/liuxin2017](https://github.com/liuxin2017)
+    * Github : [https://github.com/weiwei10](https://github.com/weiwei10)
 
 ### 运行效果
 <img src="../../image/岛买岛卖/1.png" width=250 height=400 />
