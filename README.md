@@ -11,10 +11,10 @@
 
 * 于淑新 (项目经理，产品，模型设计及模型开发) 
     * Email: <yushuxin1@foxmail.com>
-    * Github : [https://github.com/yushuxin1](https://github.com/yushuxin1)
+    * Github : [https://github.com/Chinesemodel/chinese_model](https://github.com/Chinesemodel/chinese_model)
 * 刘林微 (UI设计，客户端代码开发) 
     * Email: <1127644749@qq.com>
-    * Github : [https://github.com/weiwei10](https://github.com/weiwei10)
+    * Github : [https://github.com/Chinesemodel/Chinese_model-liulinwei](https://github.com/Chinesemodel/Chinese_model-liulinwei)
 
 ### 运行效果
 <img src="image/1.png" width=800 height=400 />
